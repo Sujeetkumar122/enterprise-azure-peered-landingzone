@@ -32,3 +32,4 @@ output "storage_account_ids" {
   description = "IDs of the deployed Storage Accounts in Dev"
   value       = module.storage.storage_account_ids
 }
+

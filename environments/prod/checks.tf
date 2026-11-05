@@ -33,3 +33,4 @@ check "enforce_bastion_pip_sku" {
     error_message = "Enterprise Policy: All public IPs for Bastion must use the Standard SKU."
   }
 }
+
